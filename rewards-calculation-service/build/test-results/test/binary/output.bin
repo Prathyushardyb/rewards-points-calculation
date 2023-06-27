@@ -1,0 +1,1 @@
+u19:19:43.793 [Test worker] WARN com.test.rewards.service.CustomerServiceImpl - Customer does not exist with id - 1.
