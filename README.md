@@ -12,12 +12,17 @@
 # Setup
 
 - Check out from the Git Repo and import the project in Intellij
-- Once the build is success, Start RewardCalculationServiceApplication(which has main method in it) OR 
 - from intellij terminal run the below command 
   ```
   ./gradlew bootRun
   ```
   OR
+
+  Intellij right side menu we can choose these tasks to build
+
+  ![image](https://github.com/Prathyushardyb/rewards-points-calculation/assets/136513365/541ebd9b-8608-41d5-b52a-34310f11d128)
+
+  - Once the build is success, we can Start RewardCalculationServiceApplication(which has main method in it) OR 
 
   We can directly run the application with below command in command line
 ```
